@@ -1,0 +1,6 @@
+query MeCheck {
+  me {
+    id
+    username
+  }
+}
